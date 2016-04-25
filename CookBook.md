@@ -54,7 +54,7 @@ There are 5 parts:
 
 ## The run_analysis.R:
 
-* Require Library: reshapre2 and data.table.
+* Require Library: data.table.
 * Load test and train data sets
 * Load features and activity labels.
 * Extract the mean and standard deviation column names and data.
